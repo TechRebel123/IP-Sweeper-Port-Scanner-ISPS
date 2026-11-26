@@ -5,6 +5,6 @@ Sweeps all the IP's/Hosts in your network and scans the open ports in all of the
   
 # USAGE
 
-1. git clone https://github.com/TechRebel123/IP-Sweeper-Port-Scanner
+1. git clone https://github.com/TechRebel123/IP-Sweeper-Port-Scanner-ISPS.git
 2. chmod +x isps.sh
 3. ./isps.sh OR bash isps.sh
