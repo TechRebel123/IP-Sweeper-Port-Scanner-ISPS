@@ -29,7 +29,7 @@ socket.setdefaulttimeout(1)
 if option == "1":
     print("This will take time.")
     try:
-        for port in range(1, 65535):
+        for port in range(1, 65536):
             s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             result = s.connect_ex((target, port))
             if result == 0:
