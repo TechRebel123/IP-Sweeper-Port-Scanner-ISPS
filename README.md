@@ -11,13 +11,11 @@ $ git clone https://github.com/TechRebel123/IP-Sweeper-Port-Scanner-ISPS.git
 
 $ python3 portscanner.py (ip)/(url)
 
-
-<img width="635" height="443" alt="portscanner" src="https://github.com/user-attachments/assets/d04780f5-ae8f-409e-be92-ce2d938faca2" />
-
-
-
 - If you want to use ipsweeper + portscanner, use:
 
 $ cd ISPS
 $ chmod +x isps.sh
 $ ./isps.sh
+
+
+<img width="635" height="443" alt="portscanner" src="https://github.com/user-attachments/assets/d04780f5-ae8f-409e-be92-ce2d938faca2" />
