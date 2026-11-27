@@ -23,4 +23,3 @@ $ ./isps.sh
 
 
 <img width="1039" height="679" alt="portscannersh" src="https://github.com/user-attachments/assets/6bf73f21-833d-4a74-b01b-7aa03d1e73ac" />
-
