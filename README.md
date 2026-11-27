@@ -18,5 +18,6 @@ Sweeps all the IP's/Hosts in your network and scans the open ports in all of the
 
 - If you want to use ipsweeper + portscanner, use:
 
+--> cd ISPS
 --> chmod +x isps.sh
 --> ./isps.sh
